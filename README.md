@@ -15,10 +15,10 @@ data.shape
 > Data Cleaning and Visualisation : This section will revolve around exploring the data and visualising some summary statistics.
 
 >>>Visualization:
->>>> seaborn: statistical data visualization. Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
->>>Scatterplot
+>>seaborn: - statistical data visualization. Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+>>Scatterplot
 >>>>We generally use scatter plots to find the correlation between two variables. 
->>>Detecting Outliers
+>>Detecting Outliers
 >>>>An outlier is a point or set of points that are different from other points. Sometimes they can be very high or very low. It's often a good idea to detect and remove the outliers. Because outliers are one of the primary reasons for resulting in a less accurate model. Hence it's a good idea to remove them. 
 
 3. Exploratory Data Anlysis (EDA) 

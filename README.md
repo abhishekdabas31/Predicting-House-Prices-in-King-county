@@ -2,6 +2,7 @@ The notebook will provide:-
 
 1. Loading the "King House County Data" taken from Kaggle
 2. Exploring the Data:-
+We are using many data visualization techniques like bar graphs, pair plots, dist plots, heat maps and box plot to understand and visualize the data to see the patterns.
 
 > Performing basic functions like
 data.describe() 

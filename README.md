@@ -31,3 +31,8 @@ An outlier is a point or set of points that are different from other points. Som
 
 
 
+
+Source:- 
+https://towardsdatascience.com/predictive-modellers-guide-to-choosing-the-best-fit-regression-model-707120e502b4
+https://medium.com/@mayankshah_85820/machine-learning-feature-selection-with-backward-elimination-955894654026
+https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63
